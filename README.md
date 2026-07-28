@@ -14,8 +14,8 @@ This repository contains my Web Technology projects, assignments, and practical 
 
 ## Technologies Used
 
-* HTML5
-* CSS3
+* HTML
+* CSS
 * JavaScript
 * Git & GitHub
 
