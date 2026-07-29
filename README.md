@@ -19,5 +19,5 @@ This repository contains my Web Technology projects, assignments, and practical 
 * JavaScript
 * Git & GitHub
 
-   hello fellows let me know what do you think about it.
+   
 
