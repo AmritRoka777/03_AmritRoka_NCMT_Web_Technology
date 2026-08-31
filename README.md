@@ -1,13 +1,9 @@
 
+# Course: Web Technology (3rd Semester)
 
+🔗 **[View My Live Portfolio](https://amritroka777.github.io/)**
 
- 
-
-Course : Web Technology (3rd Semester)
-
-🔗 [View My Live Portfolio](https://aautumn-07.github.io/)
-
-This repository contains my Web Technology projects, assignments, and practical work completed during the 3rd semester. It shows that how HTML, CSS, JavaScript, are used to build portfolio and it is based on  modern web development concepts.
+This repository contains my Web Technology projects, assignments, and practical work completed during the 3rd semester. It demonstrates how HTML, CSS, and JavaScript are used to build modern, responsive, and user-friendly web applications based on modern web development concepts.
 
 ## Features
 
