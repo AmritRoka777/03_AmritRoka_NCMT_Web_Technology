@@ -1,11 +1,5 @@
 
 
-
-
-
-
-
-
 # Course: Web Technology (3rd Semester)
 
 🔗 **[View My Live Portfolio](https://amritroka777.github.io/)**
