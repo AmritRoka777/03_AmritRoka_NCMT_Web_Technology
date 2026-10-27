@@ -19,3 +19,4 @@ This repository contains my Web Technology projects, assignments, and practical 
 * CSS
 * JavaScript
 * Git & GitHub
+
